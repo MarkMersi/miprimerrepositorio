@@ -16,10 +16,12 @@ __Primer__ *repositorio* *de* __SMX2__ **2324**
 
 * Primer elemento
 * Segundo elemento
+
 - Tercer elemento
 - Cuarto elemento
     1. Primer subelemento
     2. Segundo subelemento
+
 + Quinto elemento
 + Sexto elemento
 
@@ -27,7 +29,7 @@ Esto es un parrafo njqeojqefijoqjoifojiwfjoiwfijoqwfojiqwfjoiqwfojiqwfijoqwfjoiq
 
 ijofeijofqijoeqfijofewijofewijofewijoewfjoiewfojifewojifewojifewjoiokpsqokpefokpijofejoifeijoefjoiewfjoiewfijoewfjoiewfjoiwesfjoiefijoewfijoewfjoiewijojndsjkvnsjkvnsdnvjksdnvjksnvjksdnvjksnvkjsndjkvnopqlpdkqopppqeorgtjoihgoqwkgoirejheowrgoekjqwugfejhpt5jyrthegwjifeygdesbfgrthokpylhokgjieygdafsvghcnjdvgbfhyjuopknihvbjd
 
-``
+```html
 <html>
     <head>
     <head>
@@ -35,6 +37,6 @@ ijofeijofqijoeqfijofewijofewijofewijoewfjoiewfojifewojifewojifewjoiokpsqokpefokp
         <p> que poronga es html </p>
     <body>
 </html>
-``
+```
 
 [lanet](https://www.fje.edu/es/fje "peor web del mundo")
