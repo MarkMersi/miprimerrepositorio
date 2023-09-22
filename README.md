@@ -9,4 +9,9 @@ Primer repositorio de SMX2 2324
 
 # BLYYAAAAATTTTTT
 
-_PYTHON_ *_BLYAT_* ___SUKA___ **NAXUY** *_SUKA_*
+PYTHON BLYAT SUKA NAXUY SUKA
+
+# Lista ordenada
+
+1. Primer elemento de la lista
+2. Segundo elemento de la lista
