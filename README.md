@@ -47,3 +47,11 @@ ijofeijofqijoeqfijofewijofewijofewijoewfjoiewfojifewojifewojifewjoiokpsqokpefokp
 |----------|:-----------:|----------:|
 |Col 2 es|centrada|$500|
 |Col 3 es|derecha|$1500|
+
+### Examen
+
+-[X] Opción A
+
+-[ ] Opción B
+
+-[ ] Opción C
