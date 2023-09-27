@@ -41,4 +41,9 @@ ijofeijofqijoeqfijofewijofewijofewijoewfjoiewfojifewojifewojifewjoiokpsqokpefokp
 
 [lanet](https://www.fje.edu/es/fje "peor web del mundo")
 
-![Imagen del planeta](https://github.com/MarkMersi/miprimerrepositorio/blob/main/poronga.jpg "poronga")
+![poronga](https://github.com/MarkMersi/miprimerrepositorio/blob/main/poronga.jpg "poronga")
+
+|Título |Alineación |Precios |
+|----------|:-----------:|----------:|
+|Col 2 es|centrada|$500|
+|Col 3 es|derecha|$1500|
