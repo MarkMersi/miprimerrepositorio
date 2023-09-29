@@ -34,24 +34,25 @@ ijofeijofqijoeqfijofewijofewijofewijoewfjoiewfojifewojifewojifewjoiokpsqokpefokp
     <head>
     <head>
     <body>
-        <p> que poronga es html </p>
+        <p> esto es un código html </p>
     <body>
 </html>
 ```
 
-[lanet](https://www.fje.edu/es/fje "peor web del mundo")
+[lanet](https://www.fje.edu/es/fje "link a web del cole")
 
-![poronga](https://github.com/MarkMersi/miprimerrepositorio/blob/main/poronga.jpg "poronga")
+![hola](https://github.com/MarkMersi/miprimerrepositorio/blob/main/bartsuperrealista.jpg "hola")
 
 |Título |Alineación |Precios |
 |----------|:-----------:|----------:|
 |Col 2 es|centrada|$500|
 |Col 3 es|derecha|$1500|
+|Col 3 es|derecha|350€|
 
 ### Examen
 
--[X] Opción A
+-[ ] Opción A
 
--[ ] Opción B
+-[X] Opción B
 
 -[ ] Opción C
